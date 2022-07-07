@@ -6,7 +6,7 @@
     background-color: rgb(225, 219, 219);
 }
 
-#banner {
+.banner {
     background-image: url("/imags/feed.jpg");
     background-size: cover;
     background-position: center;

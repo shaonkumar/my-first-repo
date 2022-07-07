@@ -1,0 +1,278 @@
+.main-content {
+    width: 50%;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(225, 219, 219);
+}
+
+#banner {
+    background-image: url("/imags/feed.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contents {
+    padding: 80px 10px;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.contents h1 {
+    color: white;
+    font-size: 2rem;
+    margin-top: px;
+}
+
+.contents h6 {
+    color: white;
+    font-size: 11px;
+}
+
+.butt-style {
+    color: white;
+    background-color: rgb(241, 62, 62);
+    border-radius: 5px;
+    border: none;
+    font-size: .6rem;
+    padding: 8px 15px;
+}
+
+.secend-part {
+    text-align: center;
+    margin: auto;
+}
+
+.secend-part h3 {
+    font-size: 2rem;
+    margin-top: 45px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: rgba(0, 0, 0, 0.609);
+    font-size: 11px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.third-part {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.secend-part .but1 {
+    width: 70px;
+    border: none;
+    font-size: 1rem;
+    padding: 2px;
+    color: rgba(0, 0, 0, 0.609);
+    margin-right: 10px;
+    background-color: rgba(0, 0, 0, 0.025);
+}
+
+.secend-part .but2 {
+    width: 65px;
+    border: none;
+    font-size: 1rem;
+    padding: 2px;
+    color: rgba(255, 68, 0, 0.937);
+    background-color: rgb(255, 230, 238);
+    border: 0.4px red solid;
+    margin-right: 10px;
+}
+
+.third-part h5 {
+    margin-top: 70px;
+    font-size: x-small;
+    color: rgba(0, 0, 0, .250);
+    margin-bottom: 5px;
+}
+
+.forth-part h3 {
+    text-align: center;
+}
+
+.fifth-part {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+.first-parpus {
+    max-width: 170px;
+    background-color: rgb(237, 245, 246);
+    height: 160px;
+    margin-right: 35px;
+}
+
+.imgs-style {
+    height: 25px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.first-parpus h4 {
+    margin-left: 12px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    font-size: 13px;
+}
+
+.first-parpus h5 {
+    margin-left: 12px;
+    margin-top: 15px;
+    font-size: x-small;
+}
+
+.secend-parpus {
+    max-width: 170px;
+    background-color: rgb(255, 238, 238);
+    height: 160px;
+    margin-right: 35px;
+}
+
+.secend-parpus h4 {
+    margin-left: 12px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    font-size: 13px;
+}
+
+.secend-parpus h5 {
+    margin-left: 12px;
+    margin-top: 15px;
+    font-size: x-small;
+}
+
+.third-parpus {
+    max-width: 170px;
+    background-color: rgba(255, 244, 214);
+    height: 160px;
+}
+
+.third-parpus h4 {
+    margin-left: 12px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    font-size: 13px;
+}
+
+.third-parpus h5 {
+    margin-left: 12px;
+    margin-top: 15px;
+    font-size: x-small;
+}
+
+section.sixth-part {
+    display: flex;
+    margin-top: 85px;
+}
+
+.half {
+    width: 50%
+}
+
+.half h3 {
+    font-size: 25px;
+}
+
+.half p {
+    margin-left: 0px;
+}
+
+.half img {
+    width: 90%;
+    height: 225px;
+}
+
+.half .third-butt {
+    border: none;
+    padding: 7px 10px;
+    border-radius: 5px;
+    margin-left: 0px;
+    font-size: xx-small;
+    color: white;
+    background-color: rgb(241, 62, 62);
+}
+
+section.seven-part {
+    display: flex;
+    margin-top: 35px;
+}
+
+.same {
+    width: 50%;
+    margin-left: 5px;
+}
+
+.same img {
+    width: 90%;
+    height: 225px;
+    margin-top: 35px;
+}
+
+.same h3 {
+    font-size: 25px;
+}
+
+.same p {
+    margin-left: 0px;
+}
+
+.same .third-butt {
+    border: none;
+    padding: 7px 10px;
+    border-radius: 5px;
+    margin-left: 0px;
+    font-size: xx-small;
+    color: white;
+    background-color: rgb(241, 62, 62);
+}
+
+.update h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 60px;
+}
+
+.two-butt {
+    background-color: rgba(255, 225, 214, 0.937);
+    padding: 35px 25px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.two-butt .sub {
+    color: white;
+    background-color: rgb(241, 62, 62);
+    border: none;
+    padding: 3px 20px;
+    margin-right: 0px;
+    border-radius: 5px;
+}
+
+.foot {
+    text-align: center;
+    margin-top: 60px;
+    background-color: rgb(15, 14, 14);
+    padding: 5px 10px;
+    width: 97%;
+}
+
+.foot h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: rgb(241, 62, 62);
+}
+
+.foot h5 {
+    color: rgb(86, 82, 82);
+    font-size: xx-small;
+}
